@@ -1,6 +1,6 @@
 hello!
-iam the user vinay
-i am working on aws
+iam the user vinaykumar
+i am working on azur
 happy to learn!
 
 
